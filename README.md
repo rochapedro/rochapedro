@@ -1,8 +1,7 @@
-## Olá, eu sou o Pedro Rocha!
+## Olá, eu sou o Pedro Correa!
 
-- 🔭  Hoje estou trabalhando com Java
-- 🌱  Estudando React.js e Node.js
-- 😄  Pronouns: ele/dele
+- 🔭  Sou desenvolvedor fullstack, usando Java com Spring Boot para backend e frontend com React.js/ Vue.js.
+-  Tenho conhecientos sólidos em Next.js, Tailwind, Bootstrap e Node.js, empregados em diversos projetos atuando como freelancer. 
 
 <div align="center">
   <a href="https://github.com/rochapedro">
